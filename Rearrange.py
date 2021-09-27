@@ -7,4 +7,4 @@ x=len(sentence)
 
 while y < x:
     y=y+1
-    print(sentence[y],end=''+" ")
+    print(sentence[y],+" ")
